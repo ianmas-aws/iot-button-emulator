@@ -4,7 +4,7 @@ A simple emulator for the AWS IoT Button implemeted in C++ for compilation on th
 
 Quick getting started guide (needs more work)
 
-* Install & build the AWS IoT C SDK on your Raspberry Pi
+* Install & build the AWS IoT C SDK on your Raspberry Pi. Get it here https://github.com/aws/aws-iot-device-sdk-embedded-C
 
 * Clone this repo in linux_mqtt_mbedtls-2.1.0/samples/linux/ with the other client samples
 * Set up your thing on the AWS IoT console or use the command line and download your device certificates & public/private keys
