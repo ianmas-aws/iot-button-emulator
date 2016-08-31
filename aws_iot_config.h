@@ -36,7 +36,7 @@
  //
  // on the raspberry Pi you can get your device serial with the command cat /proc/cpuinfo | grep Serial | cut -f2 -d:
 #define DEVICE_SERIAL_NUMBER		"bd7ce3cb"
-// topc level topic that we will publish to
+// top level topic that we will publish to
 #define DEVICE_MASTER_TOPIC		"iotbutton-emulator"
 
 // #define AWS_IOT_MQTT_HOST              "" ///< Customer specific MQTT HOST. The same will be used for Thing Shadow
