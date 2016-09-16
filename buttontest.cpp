@@ -22,6 +22,8 @@
  GNU GPLv3 license
 */
 
+// build with g++ buttontest.cpp clickButton.cpp -lwiringPi 
+
 int main(void)
 {
 
